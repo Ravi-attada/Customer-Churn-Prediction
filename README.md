@@ -4,23 +4,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [What is Customer Churn?](#what-is-customer-churn)
-- [Dataset Description](#dataset-description)
-- [Project Workflow](#project-workflow)
-- [Algorithms Used](#algorithms-used)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [How to Run](#how-to-run)
-- [Results](#results)
-- [Conclusion](#conclusion)
-
----
-
 ## 📖 Overview
 
 This project builds a Machine Learning model to predict whether a telecom customer will **churn** (i.e., stop using the service) based on their account information, demographics, and service usage patterns.
