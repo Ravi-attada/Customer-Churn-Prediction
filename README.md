@@ -341,11 +341,6 @@ All 14 models were trained with `GridSearchCV` (5-fold CV) and evaluated on the 
   - **Internet Service type** — Fiber optic users tend to churn more than DSL users
 - Businesses can use these insights, along with the tuned CatBoost model, to design **targeted retention campaigns** for at-risk segments — e.g., offering contract upgrades or discounts to month-to-month, high-charge, low-tenure customers.
 
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
@@ -354,6 +349,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 **Ravi Attada**  
 GitHub: [@Ravi-attada](https://github.com/Ravi-attada)
 
----
-
-> ⭐ If you found this project useful, please give it a star!
